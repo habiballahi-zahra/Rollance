@@ -1,0 +1,16 @@
+# Ignore Unity specific folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+Packages/
+.vs/
+.vsconfig/
+
+/.vsconfig
+/Assembly-CSharp.csproj
+/Rollance_Ball.sln
+/UserSettings/Layouts/default-2022.dwlt
